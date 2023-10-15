@@ -34,28 +34,28 @@ Our project employs various Python libraries and methods for sentiment analysis.
 
 # Results
 ## Sentiment Distribution of Needy
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/0a206f5b-ed48-4eba-ad9a-9e4402106fad">
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/a9070ed9-d38a-474a-8445-4435e18de642">
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/8d80fe99-ef2b-490f-9a1f-531665df7941">
+<img width="200" height="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/0a206f5b-ed48-4eba-ad9a-9e4402106fad">
+<img width="200" height="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/a9070ed9-d38a-474a-8445-4435e18de642">
+<img width="200" height="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/8d80fe99-ef2b-490f-9a1f-531665df7941">
 
 
 ## Sentiment Distribution of Donors
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/c67926f7-e0b6-4d08-939a-0fb06d93f9cb">
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/e404e12d-d631-41c9-8f68-a00edab8641d">
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/09d9266d-65f3-4b07-9841-7b5af02236a0">
+<img width="200" height="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/c67926f7-e0b6-4d08-939a-0fb06d93f9cb">
+<img width="200" height="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/e404e12d-d631-41c9-8f68-a00edab8641d">
+<img width="200" height="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/09d9266d-65f3-4b07-9841-7b5af02236a0">
 
 
 ## Positive Tweets of Needy & Donor Groups for TextBlob, Vader, Flair
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/9418b5bb-5a2f-4d28-b98f-f4bc6acb8046">
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/1f3b2d68-699a-4e83-8e16-d1311428dbe0">
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/ce6957f8-4517-416f-902e-43998fc714b0">
+<img width="300" height="300" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/9418b5bb-5a2f-4d28-b98f-f4bc6acb8046">
+<img width="300" height="300" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/1f3b2d68-699a-4e83-8e16-d1311428dbe0">
+<img width="300" height="300" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/ce6957f8-4517-416f-902e-43998fc714b0">
 
 
 ## Choropleth Map of Needy in USA
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/5a5c9a42-20fd-41b1-87f5-f1efa88ced14">
+<img width="660" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/5a5c9a42-20fd-41b1-87f5-f1efa88ced14">
 
 ## Choropleth Map of Donors in USA
-<img width="200" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/4019c241-3184-4422-8444-fe50ab5d6e69")
+<img width="660" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/4019c241-3184-4422-8444-fe50ab5d6e69">
 
 ## Examples of Extracted Tweets
 <img width="660" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/f1c9cc09-4828-4981-a405-f9eecbeebc70">
