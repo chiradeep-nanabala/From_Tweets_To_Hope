@@ -34,9 +34,9 @@ Our project employs various Python libraries and methods for sentiment analysis.
 
 # Results
 ## Sentiment Distribution of Needy
-![image](https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/0a206f5b-ed48-4eba-ad9a-9e4402106fad)
-![image](https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/a9070ed9-d38a-474a-8445-4435e18de642)
-![image](https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/8d80fe99-ef2b-490f-9a1f-531665df7941)
+<img width="660" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/0a206f5b-ed48-4eba-ad9a-9e4402106fad">
+<img width="660" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/a9070ed9-d38a-474a-8445-4435e18de642">
+<img width="660" alt="image" src="https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/8d80fe99-ef2b-490f-9a1f-531665df7941">
 
 
 ## Sentiment Distribution of Donors
