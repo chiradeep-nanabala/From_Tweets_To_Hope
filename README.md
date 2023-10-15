@@ -48,7 +48,7 @@ Our project employs various Python libraries and methods for sentiment analysis.
 ## Positive Tweets of Needy & Donor Groups for TextBlob, Vader, Flair
 ![image](https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/9418b5bb-5a2f-4d28-b98f-f4bc6acb8046)
 ![image](https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/1f3b2d68-699a-4e83-8e16-d1311428dbe0)
-![Uploading image.png…]()
+![image](https://github.com/chiradeep-nanabala/From_Tweets_To_Hope/assets/44319198/ce6957f8-4517-416f-902e-43998fc714b0)
 
 
 ## Choropleth Map of Needy in USA
